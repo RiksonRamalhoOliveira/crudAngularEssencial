@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "carro",
+      "price": 30000.2
+    },
+    {
+      "id": 2,
+      "name": "Moto",
+      "price": 3000.2
+    },
+    {
+      "id": 3,
+      "name": "Avião",
+      "price": 10000
+    }
+  ]
+}
